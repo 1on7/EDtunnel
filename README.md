@@ -8,7 +8,7 @@ GitHub Repository for [https://github.com/zizifn/edgetunnel](https://github.com/
 
 Cloudflare pure IP update: [https://t.me/edtunnel](https://t.me/edtunnel)
 
-[![Repository](https://img.shields.io/badge/View%20on-GitHub-blue.svg)](https://github.com/zizifn/edgetunnel)
+[![Repository](https://img.shields.io/badge/View%20on-GitHub-blue.svg)]([dhd](https://github.com/1on7/EDtunnel)))
 
 ## Deploy in pages.dev
 
